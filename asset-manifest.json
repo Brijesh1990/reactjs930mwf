@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myportfolio.github.io/static/css/main.fd2def56.css",
+    "main.js": "/myportfolio.github.io/static/js/main.7367e638.js",
+    "static/js/787.129b1f29.chunk.js": "/myportfolio.github.io/static/js/787.129b1f29.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/myportfolio.github.io/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/myportfolio.github.io/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/cabin.png": "/myportfolio.github.io/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/myportfolio.github.io/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/myportfolio.github.io/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/myportfolio.github.io/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/myportfolio.github.io/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/myportfolio.github.io/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/myportfolio.github.io/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "index.html": "/myportfolio.github.io/index.html",
+    "main.fd2def56.css.map": "/myportfolio.github.io/static/css/main.fd2def56.css.map",
+    "main.7367e638.js.map": "/myportfolio.github.io/static/js/main.7367e638.js.map",
+    "787.129b1f29.chunk.js.map": "/myportfolio.github.io/static/js/787.129b1f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2def56.css",
+    "static/js/main.7367e638.js"
+  ]
+}
